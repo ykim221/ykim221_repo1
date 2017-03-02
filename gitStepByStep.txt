@@ -1,0 +1,5 @@
+Step 2: Add a new file to the repo
+
+Go ahead and add a new file to the project, using any text editor you like or running a touch command.
+
+Once you've added or modified files in a folder containing a git repo, git will notice that changes have been made inside the repo. But, git won't officially keep track of the file (that is, put it in a commit - we'll talk more about commits next) unless you explicitly tell it to.
